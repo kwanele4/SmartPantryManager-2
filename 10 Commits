@@ -1,0 +1,31 @@
+SMART PANTRY MANAGER —  COMMIT PLAN.
+
+1. Create Android Studio project
+   Example message: "Create Smart Pantry Manager Android project"
+
+2. Add application resources and base layouts
+   Example message: "Add base layouts and application resources"
+
+3. Add Ingredient, Recipe and RecipeIngredient models
+   Example message: "Add pantry and recipe model classes"
+
+4. Implement SQLite database structure
+   Example message: "Implement SQLite database and table creation"
+
+5. Add seeded recipe data
+   Example message: "Seed recipe collection into SQLite database"
+
+6. Implement pantry CRUD operations
+   Example message: "Implement pantry ingredient CRUD operations"
+
+7. Add RecyclerView and custom adapters
+   Example message: "Add RecyclerView adapters for pantry and recipes"
+
+8. Implement strict recipe matching
+   Example message: "Implement strict recipe matching logic"
+
+9. Add recipe detail and settings screens
+   Example message: "Add recipe detail and settings navigation"
+
+10. Test and fix validation/persistence
+    Example message: "Fix validation and verify database persistence"
